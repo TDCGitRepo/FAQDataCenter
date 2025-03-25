@@ -5,7 +5,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Testing
+    - Introduction
     - "SIPMABA Frequently Asked Questions "
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
