@@ -64,7 +64,7 @@ tags:
 
 Oleh mimil
 "Kalau beli bapel di mabastore itu ya kak?"
+
 Oleh Kang Aro
-"Bapel itu sebenernya lebih ke baju standar buat pelatihan/kegiatan tertentu, nah itu ada kriterianya. Alternatif buat beli bapel itu bisa di mabastore karena kadang ada tempat lain yang jual, tapi gak sesuai standarnya
-"
+"Bapel itu sebenernya lebih ke baju standar buat pelatihan/kegiatan tertentu, nah itu ada kriterianya. Alternatif buat beli bapel itu bisa di mabastore karena kadang ada tempat lain yang jual, tapi gak sesuai standarnya"
 
