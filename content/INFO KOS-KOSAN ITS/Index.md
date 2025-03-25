@@ -1,12 +1,10 @@
 ---
 longform:
   format: scenes
-  title: SIPMABA FAQ DATA CENTER
+  title: INFO KOS-KOSAN ITS
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Testing
-    - "SIPMABA Frequently Asked Questions "
+  scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
