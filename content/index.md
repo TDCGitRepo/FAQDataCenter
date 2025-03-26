@@ -1,6 +1,9 @@
 ---
 title: INFO MABA ITS
 ---
+
+![[HEADER GFORM.png]]
+
 # 🎓 Selamat Datang di infomabaits.com!
 
 Halo! Saya Dzaky, mahasiswa Teknik Informatika angkatan 2024. Selama masa persiapan masuk ITS, saya menyadari banyaknya pertanyaan yang sering diajukan oleh calon mahasiswa baru. Untuk itu, saya membuat **infomabaits.com** sebagai pusat informasi yang dapat membantu menjawab pertanyaan-pertanyaan tersebut dengan cepat dan mudah
