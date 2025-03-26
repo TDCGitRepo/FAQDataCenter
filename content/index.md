@@ -1,6 +1,14 @@
 ---
-title: Welcome to TDC Data Center
+title: INFO MABA ITS
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Halo, website ini adalah...
+
+karena banyak pertanyaan, jadi aku buat ini..
+
+
+yang ada di sini 
+1. Info seputar dokumen SIPMABA
+2. Info kos-kosan
+3. Info kontak admin departemen
+4. Info kontak ITS Admission
