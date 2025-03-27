@@ -6,6 +6,14 @@ title: INFO MABA ITS
 
 Halo! Saya Dzaky, mahasiswa Teknik Informatika angkatan 2024. Selama masa persiapan masuk ITS, saya menyadari banyaknya pertanyaan yang sering diajukan oleh calon mahasiswa baru. Untuk itu, saya membuat **infomabaits.com** sebagai pusat informasi yang dapat membantu menjawab pertanyaan-pertanyaan tersebut dengan cepat dan mudah
 
+> [!info] Title
+> 
+> This is a callout!
+
+> [!warning] Warning
+> 
+> This is a callout!
+
 ## Apa Itu infomabaits.com?
 
 **infomabaits.com** adalah platform yang dirancang untuk menyediakan informasi penting seputar proses penerimaan mahasiswa baru di ITS. Situs ini bertujuan untuk mengurangi kebingungan dan memberikan panduan yang jelas bagi calon mahasiswa.
