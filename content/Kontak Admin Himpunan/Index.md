@@ -1,10 +1,9 @@
 ---
 longform:
   format: scenes
-  title: Data Kos-kosan ITS
+  title: Kontak Admin Himpunan
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
-  sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
