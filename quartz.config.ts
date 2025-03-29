@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Info Maba Center",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "ini PageTitleSUFFIC",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Montserrat", //"Schibsted Grotesk",
+        body: "Poppins", //"Source Sans Pro",
         code: "IBM Plex Mono",
       },
       colors: {
