@@ -1,7 +1,7 @@
 ---
 longform:
   format: scenes
-  title: SIPMABA FAQ DATA CENTER
+  title: FAQ
   workflow: Default Workflow
   sceneFolder: /
   scenes:
