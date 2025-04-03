@@ -1,40 +1,53 @@
 ---
-title: INFO MABA ITS
+title: Selamat Datang di infomabaits.com!
+---
+# Halo, Selamat Datang di ITS! 🎉
+
+![BannerGif](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)  
+_source: [https://id.pinterest.com/icarust/](https://id.pinterest.com/icarust/)_
+
 ---
 
-# Selamat Datang di infomabaits.com!
+Kenalin, aku [Dzaky](https://www.naratama.site), mahasiswa Teknik Informatika ITS angkatan 2024. Aku mau mengucapkan **selamat** buat kalian yang berhasil lolos dan resmi menjadi bagian dari keluarga besar ITS! Semua kerja keras kalian akhirnya terbayar!
 
-Halo! Saya Dzaky, mahasiswa Teknik Informatika angkatan 2024. Selama masa persiapan masuk ITS, saya menyadari banyaknya pertanyaan yang sering diajukan oleh calon mahasiswa baru. Untuk itu, saya membuat **infomabaits.com** sebagai pusat informasi yang dapat membantu menjawab pertanyaan-pertanyaan tersebut dengan cepat dan mudah
+Waktu aku dulu persiapan masuk ITS, aku sadar banyak banget pertanyaan yang sering muncul dari calon mahasiswa baru. Karena itu, aku membuat **[infomabaits.com](https://infomabaits.com/)** — sebuah platform pusat informasi untuk menjawab pertanyaan-pertanyaan itu dengan cepat, jelas, dan mudah dipahami.
+	
+## Apa itu infomabaits.com?
 
-> [!info] Title
-> 
-> This is a callout!
+**infomabaits.com** adalah platform yang dirancang khusus untuk menyediakan informasi penting seputar proses penerimaan mahasiswa baru di ITS. Tujuannya adalah untuk:
 
-> [!warning] Warning
-> 
-> This is a callout!
-
-## Apa Itu infomabaits.com?
-
-**infomabaits.com** adalah platform yang dirancang untuk menyediakan informasi penting seputar proses penerimaan mahasiswa baru di ITS. Situs ini bertujuan untuk mengurangi kebingungan dan memberikan panduan yang jelas bagi calon mahasiswa.
+- Mengurangi kebingungan di tengah banyaknya informasi yang tersebar
+    
+- Memberikan panduan yang jelas dan terpercaya
+    
+- Menjadi teman perjalanan kalian menuju kehidupan kampus ITS
+    
 
 ## Fitur Utama
 
-- *_Panduan Dokumen SIPMABA_: Informasi lengkap mengenai dokumen yang diperlukan untuk proses pendaftaran mahasiswa baru
-- *_Info Kos-Kosan_: Rekomendasi tempat tinggal di sekitar kampus yang nyaman dan sesuai kebutuhan mahasisa.
-- *_Kontak Admin Departemen_: Daftar kontak admin dari berbagai departemen di ITS untuk memudahkan komunikasi
-- *_Kontak ITS Admission_: Informasi kontak bagian penerimaan mahasiswa baru ITS untuk pertanyaan lebih lanjut.
+![GIF1](blob:https://tenor.com/12f631a0-374c-45e0-9fd0-8b61f6e09210)
 
+## Hal yang Sering Dibahas
 
+### ❓ FAQ
 
+**[[SIPMABA Frequently Asked Questions]]** — Kumpulan pertanyaan paling sering ditanyakan oleh mahasiswa baru beserta jawabannya.
 
+### 📅 Keperluan GERIGI
 
+**[[Keperluan GERIGI]]** Persiapan dan informasi lengkap tentang acara penyambutan mahasiswa baru ITS: GERIGI.
+### 🏡 Info Kos-Kosan
+
+**[[Info Kos-Kosan]]** Rekomendasi tempat tinggal strategis di sekitar ITS dengan harga dan fasilitas yang beragam.
+
+### 📞 Kontak Admin Himpunan
+
+**[[Kontak Admin Himpunan]]** Daftar kontak penting untuk menghubungi admin himpunan jurusan masing-masing.
 
 ## Mari Jelajahi!
 
-Silakan jelajahi infomabaits.com dan temukan informasi yang Anda bukan. Semoga situs ini dapat membantu Anda dalam mempersiapkan diri untuk menjadi bagian dari keluarga besar ITS.
-
-
+Silakan kunjungi [infomabaits.com](https://infomabaits.com/) dan temukan informasi yang kalian butuhkan. Semoga situs ini bisa membantu kalian dalam mempersiapkan diri menjadi bagian dari keluarga besar ITS.
 
 ## Kontributor
 
+_(Bagian ini bisa kamu isi dengan nama-nama kontributor lain jika ada)_

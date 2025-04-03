@@ -6,7 +6,6 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
-    - "SIPMABA Frequently Asked Questions "
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
