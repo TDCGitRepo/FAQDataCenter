@@ -25,7 +25,7 @@ Waktu aku dulu persiapan masuk ITS, aku sadar banyak banget pertanyaan yang seri
 
 ## Fitur Utama
 
-![GIF1](blob:https://tenor.com/12f631a0-374c-45e0-9fd0-8b61f6e09210)
+![image1](https://www.youtube.com/watch?v=RC4D514hmkc)
 
 ## Hal yang Sering Dibahas
 
@@ -38,7 +38,7 @@ Waktu aku dulu persiapan masuk ITS, aku sadar banyak banget pertanyaan yang seri
 **[[Keperluan GERIGI]]** Persiapan dan informasi lengkap tentang acara penyambutan mahasiswa baru ITS: GERIGI.
 ### 🏡 Info Kos-Kosan
 
-**[[Info Kos-Kosan]]** Rekomendasi tempat tinggal strategis di sekitar ITS dengan harga dan fasilitas yang beragam.
+**[[INFO KOS-KOSAN]]** Rekomendasi tempat tinggal strategis di sekitar ITS dengan harga dan fasilitas yang beragam.
 
 ### 📞 Kontak Admin Himpunan
 
@@ -48,6 +48,6 @@ Waktu aku dulu persiapan masuk ITS, aku sadar banyak banget pertanyaan yang seri
 
 Silakan kunjungi [infomabaits.com](https://infomabaits.com/) dan temukan informasi yang kalian butuhkan. Semoga situs ini bisa membantu kalian dalam mempersiapkan diri menjadi bagian dari keluarga besar ITS.
 
-## Kontributor
+<!-- ## Kontributor
 
-_(Bagian ini bisa kamu isi dengan nama-nama kontributor lain jika ada)_
+_(Bagian ini bisa kamu isi dengan nama-nama kontributor lain jika ada)_ -->

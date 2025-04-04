@@ -1,11 +1,12 @@
 ---
-title: "SIPMABA Frequently Asked Questions "
+title: "SIPMABA FAQ (Frequently Asked Questions)"
 draft: false
 tags:
   -
 ---
- 
-# Sumber : https://sipmaba.its.ac.id/faq
+
+# FAQ dari SIPMABA
+Sumber : https://sipmaba.its.ac.id/faq
 
 | No. | Pertanyaan                                                                                                                                                                                                             | Jawaban                                                                                                                                                                                                                                                                                           |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,45 +59,51 @@ tags:
 | 47  | Apakah masih bisa melakukan banding atas UKT/SPP yg telah ditetapkan?                                                                                                                                                  | Mohon maaf tidak dapat, karena penetapan nominal UKT sudah melalui proses verifikasi oleh tim verifikator UKT berdasarkan data-data yang diisikan                                                                                                                                                 |
 | 48  | Apakah saya bisa meminta keringan/potongan UKT/SPP?                                                                                                                                                                    | Mohon maaf, untuk mahasiswa baru tidak ada keringanan potongan UKT namun dapat dicoba untuk mengikuti program Keringanan UKT ketika sudah menjadi mahasiswa dan menjalani masa perkuliahan                                                                                                        |
 
-
-
 # Pembahasan Group WhatsApp
 
 
 
-| Timestamp | Penanya  | Pertanyaan |
-| --------- | -------- | ---------- |
-| Timestamp | Penjawab | Jawaban    |
 
+Q = Yang bertanya
+A = Yang menjawab
 
-| [18/3 19.13] | mimil    | Kalau beli bapel di mabastore itu ya kak?<br>                                                                                                                                                                                  |
-| ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [18/3 19.24] | Kang Aro | Bapel itu sebenernya lebih ke baju standar buat pelatihan/kegiatan tertentu, nah itu ada kriterianya. Alternatif buat beli bapel itu bisa di mabastore karena kadang ada tempat lain yang jual, tapi gak sesuai standarnya<br> |
-|              |          |                                                                                                                                                                                                                                |
-
-
-| [18/3 20.01] | r19s5l     | permisi kak, ini kita mulai ngisi data diri dan sebagainya dimulai dari kapan ya?<br> |
-| ------------ | ---------- | ------------------------------------------------------------------------------------- |
-| [18/3 20.02] | achaaskndr | snbp daful nya 22-28 april sih tertulis di kalender akademik<br>                      |
-| [18/3 20.03] | r19s5l     | harus datang ke rektorat kan ya?<br>                                                  |
-| [18/3 20.18] | achaaskndr | taun kmrn daful nya online sih dr sipmaba, yg offline pas foto KTM aja<br>            |
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
+| Timestamp    | Username                    | Pertanyan dan Jawaban                                                                                                                                                                                                                                                                                                                                    |
+| ------------ | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [18/3 19.13] | [Q] mimil                   | Kalau beli bapel di mabastore itu ya kak?                                                                                                                                                                                                                                                                                                                |
+| [18/3 19.24] | [A] Kang Aro                | Bapel itu sebenernya lebih ke baju standar buat pelatihan/kegiatan tertentu, nah itu ada kriterianya. Alternatif buat beli bapel itu bisa di mabastore karena kadang ada tempat lain yang jual, tapi gak sesuai standarnya                                                                                                                               |
+| [18/3 20.01] | [Q] r19s5l                  | permisi kak, ini kita mulai ngisi data diri dan sebagainya dimulai dari kapan ya?                                                                                                                                                                                                                                                                        |
+| [18/3 20.02] | [A] achaaskndr              | snbp daful nya 22-28 april sih tertulis di kalender akademik                                                                                                                                                                                                                                                                                             |
+| [18/3 20.03] | [Q] r19s5l                  | harus datang ke rektorat kan ya?<br>                                                                                                                                                                                                                                                                                                                     |
+| [18/3 20.18] | [A] achaaskndr              | taun kmrn daful nya online sih dr sipmaba, yg offline pas foto KTM aja<br>                                                                                                                                                                                                                                                                               |
+| [18/3 21.34] | [Q] Rivansyah               | Kak mau tanya, kata temenku wajib pake sabuk tusuk, emang bener ya kak? Ak gk punya sabuk tusuk soalnya<br>                                                                                                                                                                                                                                              |
+| [18/3 21.38] | [A] ata                     | Kemarin aku beli di mabastore, praktis sih, udah pasti aman<br><br>                                                                                                                                                                                                                                                                                      |
+| [19/3 11.45] | [Q] ibr                     | kakk cara tau hima per departemen gimana yaa<br>                                                                                                                                                                                                                                                                                                         |
+| [19/3 13.31] | [A] Okky Priscila           | Narahubung Departemen ITS 2025, pastikan kebenaran informasi melalui akun official Instagram yang tertera 🙏<br>https://its.id/m/NarahubungDepartemenITS2025<br>                                                                                                                                                                                         |
+| [19/3 13.34] | [Q] salwa_tekfis            | untuk yang tes buta warna itu gimana kak?<br>                                                                                                                                                                                                                                                                                                            |
+| [19/3 13.35] | [A] achaaskndr              | tes buta warna biasanya dilakuin mandirii, jdi kalian bisa datang aja ke rs atau klinik bilang mau tes buta warna untuk kebutuhan daftar kampus gt<br><br>                                                                                                                                                                                               |
+| [20/3 08.14] | [Q] Ike_ftk                 | Kak ortuku kan pedagang di rumah, itu juga nyantumin suket penghasilan apa beda suket lagi?<br>                                                                                                                                                                                                                                                          |
+| [20/3 08.58] | [Q] Tori                    | udh bisa login kah sipmaba?<br>                                                                                                                                                                                                                                                                                                                          |
+| [20/3 09.01] | [A] an                      | Tidak perlu login untuk akses halaman itu<br>                                                                                                                                                                                                                                                                                                            |
+| [20/3 09.02] | [A] Ubed_analitika logistik | login sipmaba masih tanggal 9 kak<br>                                                                                                                                                                                                                                                                                                                    |
+| [20/3 09.30] | [A] Ky                      | Kalender Akademik<br>https://www.its.ac.id/pendidikan/wp-content/uploads/sites/112/2025/02/3-I-SK-Rektor-Tentang-KALENDER-AKADEMIK-2025-2026-.pdf<br>                                                                                                                                                                                                    |
+| [20/3 09.44] | [Q] Maulana Ikhsan          | Kak mau nanya juga dong, itu nanti ada tes begituan buat apa kak ?<br>                                                                                                                                                                                                                                                                                   |
+| [20/3 09.46] | [A] Ky                      | kalau TEFL itu untuk test bahasa inggris. nah kalau TEFL ini ada skor minimum lulus, 477 untuk non-iup, iup 500<br>                                                                                                                                                                                                                                      |
+| [20/3 10.15] | [Q] an                      | Halo mau tanya, ini apakah rapor semester 1-5 perlu di legalisir atau tidak?<br>                                                                                                                                                                                                                                                                         |
+| [20/3 10.19] | [A] Feris amalia            | tidak perlu<br>                                                                                                                                                                                                                                                                                                                                          |
+| [20/3 10.37] | [Q] Naura                   | Izin tanya, apakah tefl bakal mempengaruhi nilai ipk? 🙏<br>                                                                                                                                                                                                                                                                                             |
+| [20/3 10.38] | [A] Jason Maxmilan          | nggak mempengaruhi sama sekali ke akademik, cuma syarat lulus dari ITS (Yudisium)<br>Jadi klo ngulang bisa bolak balik selama kuliah di ITS. ngulangnya ga terikat semester/tahun juga, kapan pun<br>                                                                                                                                                    |
+| [20/3 12.45] | [Q] rohman bintang          | izin tanya kak, kalau semisal alamat KK dan domisili tinggal saat ini tidak sama itu gimana ya kak? yang kita foto rumah yang ditempati atau yang sesuai KK? Terima kasih 🙏🏽😁<br>                                                                                                                                                                     |
+| [20/3 12.45] | [A] ata                     | rumah yang di tempati yaa<br>                                                                                                                                                                                                                                                                                                                            |
+| [20/3 12.51] | [Q] Aulia Aldania           | permisi kak, izin bertanya. saya kan sekarang tinggal bersama kakek saya di luar surabaya. nah, yang akan datang sebelum mulai kuliah itu saya mulai tinggal di surabaya sama orang tua saya. alamat dan foto rumah yang saya masukkan nanti tetap tempat tinggal saya sekarang atau bisa rumah orang tua saya di surabaya nanti? terima kasih🙏🏻😁<br> |
+| [20/3 12.58] | [A] orri                    | sesuai kk aja<br>                                                                                                                                                                                                                                                                                                                                        |
+| [20/3 12.01] | [Q] farel                   | permisi mau tanya, tes kesehatan itu khusus buat kedokteran atau teknologi kedokteran juga?<br>                                                                                                                                                                                                                                                          |
+| [20/3 13.28] | [A] wafer keju              | Test kesehatan itu untuk semuanya ya...<br>Kalau psikotes baru deh untuk kedokteran dan tekdok<br>                                                                                                                                                                                                                                                       |
+| [20/3 14.41] | [Q] MonixDenar              | izin bertanya kalau tagihan listrik bulan                                                                                                                                                                                                                                                                                                                |
+| [20/3 14.42] | [A] RijzalHakim             | Yang penting mencangkup KWHnya<br>                                                                                                                                                                                                                                                                                                                       |
+| [20/3 14.59] | [Q] Maulana Ishaq           | izin tanya kak, untuk bpjs sama pkb itu milik kita sendiri apa satu keluarga?<br>                                                                                                                                                                                                                                                                        |
+| [20/3 14.59] | [A] Jason Maxmilan          | Milik kamu sendiri<br>                                                                                                                                                                                                                                                                                                                                   |
+| [20/3 15.01] | [Q] sallmaa                 | izin bertanya kak, kalau belum punya KTP apakah KTP nya diganti kartu pelajar atau hanya menyertakan KK saja?🙏🏻<br>                                                                                                                                                                                                                                    |
+| [20/3 15.04] | [A] Ahnaf                   | kalo menurut web sipmaba, tdk perlu di upload<br><br>                                                                                                                                                                                                                                                                                                    |
+| [20/3 15.12] | [Q] hy                      | hallo guys mau tanya, untuk surat" yang bermaterai itu kita print lalu tulis tangan kan ya? bukan kita isi dulu baru di print? mohon penjelasannya🙏🏻<br>                                                                                                                                                                                               |
+| [20/3 15.13] | [A] ata                     | sembarang guys, yang penting ttd dan bermatrai<br>                                                                                                                                                                                                                                                                                                       |
+| [20/3 15.14] | [Q]  Jason Maxmilan         | Tanda tangan nya tapi diatas matrai ya, jadi matrainya ditempel dulu baru di overlay ttd<br>                                                                                                                                                                                                                                                             |

@@ -1,3 +1,12 @@
+---
+title: "SIPMABA FAQ DATA CENTER"
+draft: false
+tags:
+  -
+---
+ 
+
+
 # Sumber : https://sipmaba.its.ac.id/faq
 
 | No. | Pertanyaan                                                                                                                                                                                                             | Jawaban                                                                                                                                                                                                                                                                                           |
