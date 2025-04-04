@@ -1,7 +1,12 @@
 ---
 title: Selamat Datang di infomabaits.com!
 ---
-# Halo, Selamat Datang di ITS! 🎉
+> [!warning] Warning
+> 
+> **INI SIMULASI**
+
+
+# Halo, Selamat Datang di ITS! 🎉 
 
 ![BannerGif](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)  
 _source: [https://id.pinterest.com/icarust/](https://id.pinterest.com/icarust/)_
