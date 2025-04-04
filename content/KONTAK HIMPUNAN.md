@@ -20,9 +20,6 @@
 | Teknik Kelautan   | [@himatekla.its](http://www.instagram.com/himatekla.its)       | Arsyi            | [wa.me/6285219838337](https://wa.me/6285219838337) | Aca              | [wa.me/6281213563616](https://wa.me/6281213563616) |
 |                   |                                                                |                  |                                                    |                  |                                                    |
 
-## Data Kontak Himpunan Mahasiswa ITS
-
----
 
 ### Fakultas FTIRS
 | Jurusan                        | Instagram Himpunan                                         | Contact Person 1 | WA/Username                                           | Contact Person 2 | WA/Username                                           |
