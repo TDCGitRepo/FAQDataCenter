@@ -1,4 +1,10 @@
 
+> [!warning] Warning
+> 
+> **INI SIMULASI**
+
+
+
 
 ![BannerGif](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
 _source: https://id.pinterest.com/icarust/_
@@ -37,3 +43,10 @@ Silakan jelajahi infomabaits.com dan temukan informasi yang Anda bukan. Semoga s
 
 ## Kontributor
 
+
+
+  # FAQ dari Group Chat WhatsApp 
+Sumber : https://its.id/m/InfoMabaITS2025
+
+> [!tip]- Info Tips
+> Sumbernya rata-rata dari group INFO MABA SNBP ITS (1) yaa 

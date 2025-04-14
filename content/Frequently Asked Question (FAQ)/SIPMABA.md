@@ -1,0 +1,16 @@
+---
+title: "SIPMABA"
+draft: false
+tags:
+  -
+---
+  # FAQ dari SIPMABA
+Sumber : https://sipmaba.its.ac.id/faq
+
+| Nomor | Pertanyaan                                                                                                                                                                                                             | Jawaban                                                                                                                                                                                                     |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 14    | Mengapa saya tidak bisa login sipmaba?                                                                                                                                                                                 | Silahkan Saudara login menggunakan user : nomer peserta dan passorwd : tanggal lahir (ddmmyyyy)                                                                                                             |
+| 15    | Saya sudah ubah password, tetapi saya lupa password yang baru, bagaimana solusinya?                                                                                                                                    | Silahkan Saudara mengirim nama dan nomer peserta beserta alasannya, Kami akan mereset password Saudara. Setelah direset silahkan Saudara login kembali dengan menggunakan user dan password : nomer peserta |
+| 29    | Apakah  diperbolehkan merubah data yang sudah disimpan permanen dikarenakan ada perubahan data?                                                                                                                        | Tidak boleh                                                                                                                                                                                                 |
+| 34    | Saat pengisian SIPMABA pada tab upload berkas, saya salah memilih 2 pilihan, seharusnya saya memilih UKT maksimal ternyata saya terlanjur memilih upload berkas, untuk mengembalikan menjadi 2 pilihan lagi bagaimana? | Silahkan saudara mengirim nama dan nomer peserta serta alasannya                                                                                                                                            |
+| 35    | Saya sudah melakukan pengisian data online di SIPMABA, tetapi bukti pengisian tidak dapat muncul, apa yang harus saya lakukan?                                                                                         | Silahkan saudara melakukan login lagi ke SIPMABA kemudian ubah password. Setelah melakukan ubah password, saudara dapat login kembali dengan user : nomer peserta dan password yang baru                    |

@@ -59,6 +59,7 @@ Sumber : https://sipmaba.its.ac.id/faq
 | 47  | Apakah masih bisa melakukan banding atas UKT/SPP yg telah ditetapkan?                                                                                                                                                  | Mohon maaf tidak dapat, karena penetapan nominal UKT sudah melalui proses verifikasi oleh tim verifikator UKT berdasarkan data-data yang diisikan                                                                                                                                                 |
 | 48  | Apakah saya bisa meminta keringan/potongan UKT/SPP?                                                                                                                                                                    | Mohon maaf, untuk mahasiswa baru tidak ada keringanan potongan UKT namun dapat dicoba untuk mengikuti program Keringanan UKT ketika sudah menjadi mahasiswa dan menjalani masa perkuliahan                                                                                                        |
 
+
 # Pembahasan Group WhatsApp
 
 

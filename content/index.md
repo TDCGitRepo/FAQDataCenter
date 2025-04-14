@@ -1,10 +1,6 @@
 ---
 title: Selamat Datang di infomabaits.com!
 ---
-> [!warning] Warning
-> 
-> **INI SIMULASI**
-
 
 # Halo, Selamat Datang di ITS! 🎉 
 
