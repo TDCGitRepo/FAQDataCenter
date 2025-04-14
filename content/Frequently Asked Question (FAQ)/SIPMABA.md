@@ -22,3 +22,12 @@ Sumber : https://sipmaba.its.ac.id/faq
 | 35    | Saya sudah melakukan pengisian data online di SIPMABA, tetapi bukti pengisian tidak dapat muncul, apa yang harus saya lakukan?                                                                                         | Silahkan saudara melakukan login lagi ke SIPMABA kemudian ubah password. Setelah melakukan ubah password, saudara dapat login kembali dengan user : nomer peserta dan password yang baru                    |
 
 
+# Kontak
+
+
+**Informasi pengisian SIPMABA bagi** **Mahasiswa Sarjana dan Sarjana Terapan Terkait Pendukung dan Upload Berkas  
+Kontak Direktorat Perencanaan dan Pengembangan :
+WA (Text only) 0823-3842-9443
+
+**Informasi Terkait Portal.its.ac.id** 
+[servicedesk.its.ac.id](https://servicedesk.its.ac.id/)  Ditujukan ke Direktorat Pengembangan Teknologi dan Sistem Informasi

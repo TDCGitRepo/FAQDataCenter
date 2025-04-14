@@ -39,17 +39,13 @@ Waktu aku dulu persiapan masuk ITS, aku sadar banyak banget pertanyaan yang seri
 **[[Keperluan Ospek Maba dan Pelatihan]]** Persiapan dan informasi lengkap tentang acara penyambutan mahasiswa baru ITS: GERIGI.
 ### 🏡 Info Kos-Kosan
 
-**[[]]** Rekomendasi tempat tinggal strategis di sekitar ITS dengan harga dan fasilitas yang beragam.
+**[[Kos-Kosan Putra]]** **[[Kos-Kosan Putri]] Rekomendasi tempat tinggal strategis di sekitar ITS dengan harga dan fasilitas yang beragam.
 
 ### 📞 Kontak Admin Himpunan
 
-**[[KONTAK HIMPUNAN]]
-** Daftar kontak penting untuk menghubungi admin himpunan jurusan masing-masing.
+**[[KONTAK HIMPUNAN]]** Daftar kontak penting untuk menghubungi admin himpunan jurusan masing-masing.
 
 ## Mari Jelajahi!
 
 Silakan kunjungi [infomabaits.com](https://infomabaits.com/) dan temukan informasi yang kalian butuhkan. Semoga situs ini bisa membantu kalian dalam mempersiapkan diri menjadi bagian dari keluarga besar ITS.
 
-<!-- ## Kontributor
-
-_(Bagian ini bisa kamu isi dengan nama-nama kontributor lain jika ada)_ -->
