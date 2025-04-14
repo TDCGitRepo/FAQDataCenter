@@ -39,7 +39,7 @@ Waktu aku dulu persiapan masuk ITS, aku sadar banyak banget pertanyaan yang seri
 **[[Keperluan Ospek Maba dan Pelatihan]]** Persiapan dan informasi lengkap tentang acara penyambutan mahasiswa baru ITS: GERIGI.
 ### 🏡 Info Kos-Kosan
 
-**[[Kos-Kosan Putra]]** **[[Kos-Kosan Putri]] Rekomendasi tempat tinggal strategis di sekitar ITS dengan harga dan fasilitas yang beragam.
+**[[Kos-Kosan Putra]] [[Kos-Kosan Putri]] Rekomendasi tempat tinggal strategis di sekitar ITS dengan harga dan fasilitas yang beragam.
 
 ### 📞 Kontak Admin Himpunan
 
