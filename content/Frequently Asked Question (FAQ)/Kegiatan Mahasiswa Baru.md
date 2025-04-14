@@ -1,5 +1,5 @@
 ---
-title: Kegiatan Mahasiswa Baru
+title: 07. Kegiatan Mahasiswa Baru
 draft: false
 tags:
 ---

@@ -1,8 +1,7 @@
 ---
-title: "Pajak"
+title: 05. Pajak
 draft: false
 tags:
-  -
 ---
   # FAQ dari SIPMABA
 Sumber : https://sipmaba.its.ac.id/faq
@@ -15,3 +14,8 @@ Sumber : https://sipmaba.its.ac.id/faq
 | 30    | Apabila pajak rumah ada tunggakan dan belum di bayar, berkas apa yang harus di upload?                                      | Tagihan pembayaran PBB                                                                                                                                                                     |
 | 31    | Apabila PBB rumah itu rumah warisan, tanahnya jadi satu sama kakek nenek dan keluarga itu bagaimana?                        | Melampirkan surat keterangan bermaterai yang ditandatangani serta diketahui oleh RT/RW. Surat keterangan tersebut diupload dengan berkas PBB yang dijadikan 1 file dengan cara dikolase    |
 | 37    | Untuk NJOP, yang diisikan itu nilai tanah atau bangunan?                                                                    | Nilai yang diisikan adalah penjumlahan nilai NJOP PER M2 tanah dan bangunan                                                                                                                |
+
+Link pendukung:
+
+https://tos.taspen.co.id/esptpajakpensiun
+

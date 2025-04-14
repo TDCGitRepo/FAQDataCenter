@@ -1,8 +1,7 @@
 ---
-title: "Penghasilan dan Pengeluaran"
+title: 10. Penghasilan dan Pengeluaran
 draft: false
 tags:
-  -
 ---
   # FAQ dari SIPMABA
 Sumber : https://sipmaba.its.ac.id/faq

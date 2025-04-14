@@ -32,18 +32,19 @@ Waktu aku dulu persiapan masuk ITS, aku sadar banyak banget pertanyaan yang seri
 
 ### ❓ FAQ
 
-**[[SIPMABA Frequently Asked Questions]]** — Kumpulan pertanyaan paling sering ditanyakan oleh mahasiswa baru beserta jawabannya.
+**[[Frequently Asked Question (FAQ)]]** — Kumpulan pertanyaan paling sering ditanyakan oleh mahasiswa baru beserta jawabannya.
 
 ### 📅 Keperluan GERIGI
 
-**[[Keperluan GERIGI]]** Persiapan dan informasi lengkap tentang acara penyambutan mahasiswa baru ITS: GERIGI.
+**[[Keperluan Ospek Maba dan Pelatihan]]** Persiapan dan informasi lengkap tentang acara penyambutan mahasiswa baru ITS: GERIGI.
 ### 🏡 Info Kos-Kosan
 
-**[[INFO KOS-KOSAN]]** Rekomendasi tempat tinggal strategis di sekitar ITS dengan harga dan fasilitas yang beragam.
+**[[]]** Rekomendasi tempat tinggal strategis di sekitar ITS dengan harga dan fasilitas yang beragam.
 
 ### 📞 Kontak Admin Himpunan
 
-**[[Kontak Admin Himpunan]]** Daftar kontak penting untuk menghubungi admin himpunan jurusan masing-masing.
+**[[KONTAK HIMPUNAN]]
+** Daftar kontak penting untuk menghubungi admin himpunan jurusan masing-masing.
 
 ## Mari Jelajahi!
 

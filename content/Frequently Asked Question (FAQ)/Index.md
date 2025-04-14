@@ -16,6 +16,7 @@ longform:
     - SIPMABA
     - UKT atau SPP
     - Informasi Departemen
+    - Ekstra
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---

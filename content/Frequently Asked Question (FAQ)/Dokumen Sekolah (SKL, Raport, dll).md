@@ -1,8 +1,7 @@
 ---
-title: "Dokumen Sekolah (SKL, Raport, dll)"
+title: 04. Dokumen Sekolah (SKL, Raport, dll)
 draft: false
 tags:
-  -
 ---
   # FAQ dari SIPMABA
 Sumber : https://sipmaba.its.ac.id/faq

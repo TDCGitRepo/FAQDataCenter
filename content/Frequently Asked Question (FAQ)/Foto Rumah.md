@@ -1,8 +1,7 @@
 ---
-title: "Foto Rumah"
+title: 09. Foto Rumah
 draft: false
 tags:
-  -
 ---
  
  # FAQ dari SIPMABA

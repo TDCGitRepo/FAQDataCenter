@@ -1,5 +1,5 @@
 ---
-title: Keperluan Ospek Maba dan Pelatihan
+title: 08. Keperluan Ospek Maba dan Pelatihan
 draft: false
 tags:
 ---

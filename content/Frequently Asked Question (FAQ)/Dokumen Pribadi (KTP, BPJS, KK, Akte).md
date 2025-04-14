@@ -1,9 +1,11 @@
 ---
-title: "Dokumen Pribadi (KTP, BPJS, KK, Akte)"
+title: 01. Dokumen Pribadi (KTP, BPJS, KK, Akte)
 draft: false
 tags:
-  -
 ---
+# Link File Dokumen
+https://drive.google.com/drive/folders/1WQt_C84Ovnjo-iXPb-LsEaIltr3hVNIC?hl=id
+ 
  # FAQ dari SIPMABA
 Sumber : https://sipmaba.its.ac.id/faq
 

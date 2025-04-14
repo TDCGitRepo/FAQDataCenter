@@ -1,8 +1,7 @@
 ---
-title: "Pembayaran"
+title: 09. Pembayaran
 draft: false
 tags:
-  -
 ---
  
  # FAQ dari SIPMABA

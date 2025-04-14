@@ -1,12 +1,11 @@
 ---
 longform:
   format: scenes
-  title: INFO KOS-KOSAN
+  title: INFO LOKASI KOS-KOSAN
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Kos Putri
-    - Kos Putra
-  sceneTemplate: templates/chapter.md
+    - Kos-Kosan Putra
+    - Kos-Kosan Putri
   ignoredFiles: []
 ---

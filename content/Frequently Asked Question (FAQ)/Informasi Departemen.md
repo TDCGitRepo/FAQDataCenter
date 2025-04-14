@@ -1,8 +1,7 @@
 ---
-title: "Informasi Departemen"
+title: 06. Informasi Departemen
 draft: false
 tags:
-  -
 ---
  
   # FAQ dari Group Chat WhatsApp 
